@@ -1,0 +1,25 @@
+{
+  "name": "Mato",
+  "symbol": "MATO",
+  "description": "Mato test token issued on Solana devnet.",
+  "image": "https://raw.githubusercontent.com/nightshade-labs/token-metadata/main/mato/logo.png",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana Devnet"
+    },
+    {
+      "trait_type": "Token Program",
+      "value": "Token-2022"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/nightshade-labs/token-metadata/main/mato/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

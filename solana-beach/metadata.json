@@ -1,0 +1,25 @@
+{
+  "name": "Solana Beach",
+  "symbol": "SB",
+  "description": "Solana Beach test token issued on Solana devnet.",
+  "image": "https://raw.githubusercontent.com/nightshade-labs/token-metadata/main/solana-beach/logo.png",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana Devnet"
+    },
+    {
+      "trait_type": "Token Program",
+      "value": "Token-2022"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/nightshade-labs/token-metadata/main/solana-beach/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
